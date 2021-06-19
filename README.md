@@ -1,3 +1,5 @@
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=dark&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
+
 ```scala
    ___  _                   ___        _             _        
   / _ \(_) _ ~_    __ _    / __\ ___  | |  __ _   __| |  __ _ 
@@ -11,8 +13,6 @@
 - _wrote them to spend more time with his kid than at a computer_
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RMLTQ76JSXJ4Q"><img src="https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg" alt="Donate via PayPal!" /></a>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jarun&show_icons=true&theme=merko)
 
 <!--
 ### Hi there 👋
