@@ -1,5 +1,3 @@
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=dark&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
-
 ```scala
    ___  _                   ___        _             _        
   / _ \(_) _ ~_    __ _    / __\ ___  | |  __ _   __| |  __ _ 
@@ -7,6 +5,8 @@
 / ___/ | || | | || (_| | / /___| (_) || || (_| || (_| || (_| |
 \/     |_||_| |_| \__,_| \____/ \___/ |_| \__,_| \__,_| \__,_|
 ```
+
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=dark&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
 
 - _author of buku, nnn, googler..._
 - _writes high quality utilities to optimize terminal productivity_
