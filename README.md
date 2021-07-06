@@ -1,9 +1,10 @@
 ```scala
-   ___  _                   ___        _             _        
-  / _ \(_) _ ~_    __ _    / __\ ___  | |  __ _   __| |  __ _ 
- / /_)/| || '~ \  / _` |  / /   / _ \ | | / _` | / _` | / _` |
-/ ___/ | || | | || (_| | / /___| (_) || || (_| || (_| || (_| |
-\/     |_||_| |_| \__,_| \____/ \___/ |_| \__,_| \__,_| \__,_|
+_ _ _ _ _ _ _ _  _ _
+\__    ___/\   \/  /
+   |  |     \     / 
+   |  |     /     \ 
+   |__|    /_ _/\  \
+                 \_/
 ```
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=dark&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
