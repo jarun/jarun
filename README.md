@@ -11,7 +11,7 @@ _ _ _ _ _ _ _ _  _ _
 
 - _author of buku, nnn, googler..._
 - _writes high quality utilities to optimize terminal productivity_
-- _wrote them to spend more time with his kid than at a computer_
+- _wrote them to reduce wasting time at a computer_
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RMLTQ76JSXJ4Q"><img src="https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg" alt="Donate via PayPal!" /></a>
 
