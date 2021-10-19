@@ -11,9 +11,10 @@ _ _ _ _ _ _ _ _  _ _
 
 - _author of buku, nnn, googler..._
 - _writes high quality utilities to optimize terminal productivity_
-- _wrote them to reduce time at a computer_
+- _wrote them to minimize time at a computer_
 
-<a href="https://github.com/sponsors/jarun"><img src="https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg" alt="Sponsor" /></a>
+| [:heart: Sponsor](https://github.com/sponsors/jarun) |
+| - |
 
 <!--
 ### Hi there 👋
