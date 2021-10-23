@@ -1,8 +1,8 @@
 ```scala
 _ _ _ _ _ _ _ _  _ _
 \__    ___/\   \/  /
-   |  |     \     / 
-   |  |     /     \ 
+   |  |     \     /
+   |  |     /     \
    |__|    /_ _/\  \
                  \_/
 ```
@@ -10,8 +10,11 @@ _ _ _ _ _ _ _ _  _ _
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=merko&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
 
 - _author of buku, nnn, googler..._
-- _writes high quality utilities to optimize terminal productivity_
+- _writes high quality tools to optimize productivity_
 - _wrote them to minimize time at a computer_
+- _on a 3 decade-long journey with open source_
+
+Please consider sponsiring me.
 
 | [:heart: Sponsor](https://github.com/sponsors/jarun) |
 | - |
