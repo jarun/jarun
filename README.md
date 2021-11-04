@@ -1,12 +1,3 @@
-```scala
-_ _ _ _ _ _ _ _  _ _
-\__    ___/\   \/  /
-   |  |     \     /
-   |  |     /     \
-   |__|    /_ _/\  \
-                 \_/
-```
-
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jarun&theme=merko&show_icons=true">](https://metrics.lecoq.io/jarun?template=classic)
 
 - _author of buku, nnn, googler..._
