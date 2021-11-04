@@ -14,9 +14,6 @@ _ _ _ _ _ _ _ _  _ _
 - _wrote them to minimize time at a computer_
 - _on a 3 decade-long journey with open source_
 
-| [:heart: Sponsor](https://github.com/sponsors/jarun) |
-| - |
-
 <!--
 ### Hi there 👋
 
