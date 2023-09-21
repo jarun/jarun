@@ -3,7 +3,6 @@
 - _author of buku, nnn, googler..._
 - _writes high quality tools to optimize productivity_
 - _wrote them to minimize time at a computer_
-- _on a 3 decade-long journey with open source_
 
 <!--
 ### Hi there 👋
