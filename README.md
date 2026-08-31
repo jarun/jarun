@@ -4,7 +4,7 @@
 - _author of buku, nnn, googler..._
 - _writes high quality tools to optimize productivity_
 - _wrote them to minimize time at a computer_
-- _latest project - [dotz](https://github.com/jarun/dotz)_
+- _latest projects - [dotz](https://github.com/jarun/dotz), [chndlr](https://github.com/jarun/chndlr)_
 
 <!--
 ### Hi there 👋
